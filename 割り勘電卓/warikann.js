@@ -35,14 +35,7 @@
   				}
   			}else{
   				//error
-  				result.innerHTML = '数が合わねえよバーカ';
+  				result.innerHTML = '数が合いません';
   			};
-
   		})
-
-
-
-
-
-
   	})();
